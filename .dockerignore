@@ -1,0 +1,5 @@
+.git
+*.out
+*.prof
+.env
+.env.*
